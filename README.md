@@ -1,31 +1,44 @@
-# 👋 I'm Peter Kimani | Full-Stack Engineer & Tier 3 AI Specialist
+# ⚡ Peter Kimani | Systems Architect & Tier 3 AI Specialist
 
-Bridging the gap between complex data logic and scalable business operations. I specialize in high-security ERP systems, AI-native development workflows, and high-integrity data engineering.
-
----
-
-### 🚀 Featured Project: JC Energy Portal (Production-Ready)
-*A Full-Stack Fuel Management & Institutional ERP*
-
-* **The Evolution:** Successfully migrated from a Python/Streamlit prototype to a high-performance React/Next.js architecture.
-* **Stack:** React, Next.js 15, Python, PostgreSQL (Supabase), Tailwind CSS.
-* **Problem Solved:** Automated manual shift reconciliation for regional fuel stations, eliminating revenue leakage and reducing accounting errors by 100%.
-* **Key Feature:** Implemented atomic SQL transactions for secure shift handovers and real-time inventory dipstick reconciliation.
-
----
+Bridging the gap between complex data logic and scalable business operations. I specialize in high-security ERP systems, AI-native development workflows, and high-integrity data engineering from the slopes of Mt. Kenya.
 
 ### 🛠️ Technical Arsenal
-* **Languages:** Python, JavaScript (ES6+), SQL (PostgreSQL), HTML5, CSS3.
-* **Frameworks/Libraries:** React, Next.js, Flask, Tailwind CSS.
-* **Tools & Platforms:** Supabase (Auth/DB), Vercel, Git/GitHub, Cursor (AI-Native Workflow).
-* **AI Specialization:** Tier 3 Video Annotation, RLHF Methodologies, Logic Assessment (100% REX Score).
+* **Languages:** Python (Flask), JavaScript (React, Next.js 15), SQL (PostgreSQL).
+* **Cloud & Infrastructure:** Vercel (Frontend), Render (Backend), Supabase.
+* **AI Expertise:** Tier 3 Specialist at Atlas Capture, RLHF methodologies, 100% REX Accuracy.
+* **Verification:** [EF SET C2 Proficient (80/100) ✓](https://cert.efset.org/8aa5TR)
 
 ---
 
-### 📈 Proof of Ability
-* **C1 Advanced Status:** EF SET English Proficiency (Score: 66/100).
-* **Tier 3 Specialist:** Promoted to top-tier reviewer at Atlas Capture for elite logic and video labeling accuracy.
-* **Full-Stack Portfolio:** [Explore my live builds here](https://rockykymm.github.io/peters-cv/)
+### 🚀 Featured Production Systems
+
+#### [JC Energy Portal](https://jc-energy-app.vercel.app)
+*Automated Fuel Management & Institutional ERP*
+* **The Problem:** Manual shift reconciliation leading to revenue leakage in fuel logistics.
+* **The Solution:** A real-time monitoring system with automated data persistence.
+* **Credentials:** Login ID: `001`
+
+#### [Mt. Kenya Academy ERP](https://school-project-lm8b-git-main-rockykymms-projects.vercel.app/)
+*Decoupled Institutional Management System*
+* **Architecture:** Decoupled setup using **Next.js (Vercel)** and **Flask API (Render)**.
+* **Core Logic:** Safaricom Daraja API for automated M-Pesa collection and Groq LPU Inference for KICD-compliant reporting.
+* **Credentials:** Username: `Rocky` | Password: `1234`
+
+#### [Gikuyu Records Portal](https://gikuy-mumbi-shrine-73cs.vercel.app/)
+*High-Performance Archival System*
+* **Focus:** Data integrity and rapid retrieval for institutional history preservation.
+
+---
+
+### ✅ Proof of Ability
+* **Full-Stack Portfolio:** [Explore my live builds & CV here](https://rockykymm.github.io/peters-cv/)
+* **C2 Proficiency:** Verified highest-tier English mastery for global collaboration.
+* **AI Credibility:** Senior-level reviewer status focusing on high-complexity logic and data quality.
+
+
+---
+
+📫 **Let's Build:** [rockykim9@gmail.com](mailto:rockykim9@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rockykim1739)
 
 ---
 
